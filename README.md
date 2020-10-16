@@ -2,11 +2,9 @@
 
 My name is [Akecel](https://www.github.com/akecel), i'm a junior web developer specialized in Backend development, API Rest Design and DevOps.
 
-🖥 - Working with PHP & Laravel
-
-🌱 - Learning Go & Typescript
-
-🧐 - Looking for collaborate on Go projects
+🖥 - Working with PHP & Laravel  
+🌱 - Learning Go & Typescript   
+🧐 - Looking for collaborate on Go projects  
 
 Here are some projects I am working on that you can take a look at :
 
