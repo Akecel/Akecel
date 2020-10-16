@@ -6,7 +6,7 @@ My name is [Akecel](https://www.github.com/akecel), i'm a junior web developer s
 
 🌱 - Learning Go & Typescript
 
-🧐 - Looking for collaborate on Go project
+🧐 - Looking for collaborate on Go projects
 
 Here are some projects I am working on that you can take a look at :
 
