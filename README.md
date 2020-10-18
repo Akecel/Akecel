@@ -9,7 +9,8 @@ My name is [Akecel](https://www.github.com/akecel), i'm a junior web developer s
 Here are some projects I am working on that you can take a look at :
 
 - [Gechoplate](https://github.com/Akecel/gechoplate) - A full-featured and beginners-friendly MVC boilerplate for Rest APIs design in Go.
-- [Makefiles-Runner](https://github.com/Akecel/makefiles-runner) - VSCode extension to easily run your makefiles commands. 
+- [Makefiles-Runner](https://github.com/Akecel/makefiles-runner) - VSCode extension to easily run your makefiles commands.
+- [Deploy-Shell-Script](https://github.com/Akecel/deploy-shell-script) - Simple shell scripts to easily deploy your applications on a web server.
 
 > Shoot the moon, even if you miss, you'll land among the stars.
 > <br> - Oscar Wilde
