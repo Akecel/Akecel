@@ -2,10 +2,6 @@
 
 My name is [Akecel](https://www.github.com/akecel), i'm a junior web developer specialized in Backend development, API Rest Design and DevOps.
 
-🖥 - Working with PHP & Laravel  
-🌱 - Learning Go & Typescript   
-🧐 - Looking for collaborate on Go projects  
-
 Here are some projects I am working on that you can take a look at :
 
 - [Gechoplate](https://github.com/Akecel/gechoplate) - A full-featured and beginners-friendly MVC boilerplate for Rest APIs design in Go.
