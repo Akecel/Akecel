@@ -1,6 +1,6 @@
 ### Hello friend ~ 🖥
 
-My name is [Akecel](https://www.github.com/akecel), i'm a junior web developer specialized in Backend development, API Rest Design and DevOps.
+My name is [Akecel](https://www.github.com/akecel), i'm a web developer specialized in Backend development, API Rest Design and DevOps.
 
 🖥 - Working with PHP / Laravel  
 🌱 - Learning Go & Typescript   
